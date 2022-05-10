@@ -1,0 +1,7 @@
+aiohttp==3.7.4.post0
+rq
+redis
+gunicorn
+pymongo~=4.0.1
+PyGithub~=1.55
+pycoinmarketcap~=0.1.0
